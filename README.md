@@ -1,5 +1,7 @@
 Quantitative Project for Aqualite Pvt Ltd. I built a risk-driven portfolio and trade optimisation framework for the quant firm Aqualite, focusing on downside protection and tail-risk control. Estimated Value at Risk (VaR) using Monte Carlo simulations and historical methods.
 
+https://drive.google.com/drive/folders/1x0XuRgg1ngRavjE4ixNGtJiz16HKIg5O?usp=sharing
+
 https://colab.research.google.com/drive/14xL4uZhAIU8BdraIxLOntUHNEkRCEFnj?usp=sharing
 
 Original file is located at
