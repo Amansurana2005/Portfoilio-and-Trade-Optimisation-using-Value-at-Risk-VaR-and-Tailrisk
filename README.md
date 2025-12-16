@@ -2,8 +2,6 @@ Quantitative Project for Aqualite Pvt Ltd. I built a risk-driven portfolio and t
 
 https://drive.google.com/drive/folders/1x0XuRgg1ngRavjE4ixNGtJiz16HKIg5O?usp=sharing
 
-https://colab.research.google.com/drive/14xL4uZhAIU8BdraIxLOntUHNEkRCEFnj?usp=sharing
-
 Original file is located at
     https://colab.research.google.com/drive/14xL4uZhAIU8BdraIxLOntUHNEkRCEFnj
 Variance Covariance method and Historical Method Excel Sheet: 
