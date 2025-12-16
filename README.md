@@ -4,6 +4,7 @@ https://colab.research.google.com/drive/14xL4uZhAIU8BdraIxLOntUHNEkRCEFnj?usp=sh
 
 Original file is located at
     https://colab.research.google.com/drive/14xL4uZhAIU8BdraIxLOntUHNEkRCEFnj
+Variance Covariance method and Historical Method Excel Sheet: 
     [VarianceCovariance, Historical and Monte Carlo SImulation.xlsx](https://github.com/user-attachments/files/24196732/VarianceCovariance.Historical.and.Monte.Carlo.SImulation.xlsx)
 
 """
